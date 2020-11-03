@@ -1,0 +1,20 @@
+.footer-list-item:not(:last-child) {
+  margin-bottom: 9px;
+}
+
+.footer-adress-link {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  list-style: none;
+  color: var(--backgound-color);
+}
+.footer-mail-link,
+.footer-tel-link {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
